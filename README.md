@@ -1,6 +1,6 @@
 # GitHub Light Theme
 
-This repository should provide a light theme identical to GitHub for Visual Studio Code editor.
+This repository should provide a light theme identical to GitHub (with bold keywords) for Visual Studio Code editor.
 
 If you find any mismatch from GitHub, feel free to make a new Pull Request.
 
