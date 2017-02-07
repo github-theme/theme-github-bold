@@ -4,7 +4,7 @@ This repository should provide a light theme identical to GitHub for Visual Stud
 
 If you find any mismatch from GitHub, feel free to make a new Pull Request.
 
-![Screenshot](...)
+![Screenshot](screenshot.png)
 
 ### Credits
 
