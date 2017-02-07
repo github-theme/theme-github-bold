@@ -15,7 +15,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "GitHub Light Theme",
+                "label": "GitHub Bold Theme",
                 "uiTheme": "vs",
                 "path": "./themes/GitHub.tmTheme"
             }
