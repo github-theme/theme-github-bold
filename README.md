@@ -1,4 +1,4 @@
-# GitHub Light Theme
+# GitHub Bold Theme
 
 This repository should provide a light theme identical to GitHub (with bold keywords) for Visual Studio Code editor.
 
