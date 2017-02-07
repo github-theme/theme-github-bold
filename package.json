@@ -1,7 +1,7 @@
 {
     "name": "theme-github-bold",
     "displayName": "GitHub Bold Theme",
-    "description": "Identical GitHub editor theme",
+    "description": "GitHub theme with bold keywords",
     "version": "0.0.1",
     "publisher": "gustavo",
     "repository": "https://github.com/github-theme/theme-github-light",
